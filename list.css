@@ -1,0 +1,22 @@
+body {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+
+h1 {font-family:lucida handwriting;
+    text-align:center; }
+
+thead th:nth-child(1) {
+    column-count: 3;
+}
+
+thead th:nth-child(2){
+    column-count:2;
+    text-align:left;
+}
+
+thead th:nth-child(3){
+    column-count:2;
+}
+
